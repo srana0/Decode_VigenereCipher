@@ -1,4 +1,3 @@
-# Decode_VigenereCipher
 
 # Decrypt a Vigenere Cipher for a given key length and ciphertext usng English Language Frequency Analysis.
 
