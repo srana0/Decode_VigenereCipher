@@ -5,7 +5,7 @@
 Algorithm: Let m be a positive integer. The plaintext, ciphertext, and the key
 space is {0, 1, 2, · · · , 25}.
 
-For a key k = (k1, k2, · · · , km) and a plaintext x = (x<sub>1</sub>1, x2, · · · , xm), 
+For a key k = (k<sub>1</sub>, k<sub>2</sub>, · · · , k<sub>m</sub>) and a plaintext x = (x<sub>1</sub>, x<sub>2</sub>, · · · , x<sub>m</sub>), 
 the encryption function is defined as
 y = Ek(x) = (x1 + k1 mod 26, x2 + k2 mod 26, · · · , xm + km mod 26),
 and the corresponding decryption function is defined as
