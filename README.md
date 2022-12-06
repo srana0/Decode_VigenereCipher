@@ -1,6 +1,6 @@
 # Decode_VigenereCipher
 
-Decrypt a Vigenere Cipher for a given key length and ciphertext usng English Language Frequency Analysis.
+# Decrypt a Vigenere Cipher for a given key length and ciphertext usng English Language Frequency Analysis.
 
 
 Algorithm: Let m be a positive integer. The plaintext, ciphertext, and the key
